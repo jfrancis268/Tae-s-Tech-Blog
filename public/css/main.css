@@ -7,13 +7,16 @@
   }
   .link {
     text-decoration: none;
-    color: #d9ead3;
+    color: #ee9b00;
+    background: #005f73;
+    border-radius: 3px;
+    border-bottom: outset;
   }
   #navbar {
     list-style-type: none;
     padding: 20px;
     margin: 0;
-    background-color: #231010;
+    background-color: #ae2012;
   }
   
   #navbar li {
@@ -29,9 +32,10 @@
     font-size: large;
   }
   #nav-header {
-    color: #d9ead3;
+    color: #ee9b00;
     font-size: xx-large;
-    padding: 20px;
+    padding: 15px;
+    margin-left: 30px;
   }
   /* Post card styling */
   .card {
